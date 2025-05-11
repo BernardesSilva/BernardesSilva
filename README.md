@@ -1,10 +1,11 @@
 # Olá! Me chamo Leandro Bernardes
 
-🎓 Sou estudante do curso de Ciência da Computação e estou cursando o 1º semestre.  
-🚀 Iniciando minha jornada na área de TI, com compromisso em aprender, evoluir e contribuir para projetos relevantes.  
+🎓 Estudante do 1º semestre do curso de Ciência da Computação.  
+🚀 Iniciando minha trajetória na área de TI, com propósito de evoluir mentalmente para acarretar minha carreira profissional.  
 🧠💻 Tecnologias em aprendizado:
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
